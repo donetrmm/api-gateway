@@ -11,8 +11,8 @@ pipeline {
         SERVER_QA = 'IP'
         SERVER_PROD = '44.214.199.75'
         DEPLOY_USER = 'ubuntu'
-        APP_DIR = '/home/ubuntu/barbershop-service'
-        APP_REPO_URL = 'https://github.com/donetrmm/barbershop-service.git'
+        APP_DIR = '/home/ubuntu/api-gateway'
+        APP_REPO_URL = 'https://github.com/donetrmm/api-gateway.git'
     }
 
     stages {
